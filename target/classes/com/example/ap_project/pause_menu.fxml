@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="615.0" prefWidth="615.0" style="-fx-background-image: url(&quot;file:/C:/Users/Mrinal/IdeaProjects/AP_Project/src/main/resources/com/example/ap_project/yo2.png&quot;); -fx-background-size: cover; -fx-opacity: 0.5;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ap_project.Pause_Menu">
+
+</AnchorPane>

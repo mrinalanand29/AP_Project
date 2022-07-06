@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="534.0" prefWidth="601.0" style="-fx-background-image: url(&quot;file:/C:/Users/Mrinal/IdeaProjects/AP_Project/src/main/resources/com/example/ap_project/wp2100712.png&quot;); -fx-background-size: cover;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ap_project.HelloController">
+    <children>
+        <ImageView fitHeight="175.0" fitWidth="284.0" layoutX="143.0" layoutY="36.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@Screenshot%202021-12-21%20153846.png" />
+            </image>
+        </ImageView>
+          <ImageView fitHeight="85.0" fitWidth="276.0" layoutX="162.0" layoutY="254.0" onMouseClicked="#switch2" pickOnBounds="true" preserveRatio="true">
+              <image>
+                  <Image url="@Screenshot%202021-12-21%20153227.png" />
+              </image>
+          </ImageView>
+    </children>
+</AnchorPane>
